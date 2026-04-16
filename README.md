@@ -1,3 +1,5 @@
+# draft - using Claude research to create notes for their exam
+
 # Claude Certified Architect — Foundations Study Materials
 
 Visual study pack for the Claude Certified Architect — Foundations certification. Covers all five exam domains with diagrams, a cheat sheet, and worked code examples.
