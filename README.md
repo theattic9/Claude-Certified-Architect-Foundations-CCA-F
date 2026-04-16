@@ -1,4 +1,6 @@
-# draft - using Claude research to create notes for their exam
+# Draft - using Claude research to create notes for their exam
+
+
 
 # Claude Certified Architect — Foundations Study Materials
 
